@@ -1,0 +1,19 @@
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\bin\Debug\Bookstore - Invoice System.exe.config
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\bin\Debug\Bookstore - Invoice System.exe
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\bin\Debug\Bookstore - Invoice System.pdb
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore - Invoice System.csproj.AssemblyReference.cache
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.formAdminDashboard.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.Properties.Resources.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore - Invoice System.csproj.GenerateResource.cache
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore - Invoice System.csproj.CoreCompileInputs.cache
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore - Invoice System.exe
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore - Invoice System.pdb
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.formEmployeeDashboard.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formEmployees.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formLogin.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formBookGenres.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formBooks.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formDealerCustomer.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formPurchaseAndSales.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formInventory.resources
+C:\Users\lingaraj\Desktop\Bookstore - Invoice System\Bookstore - Invoice System\obj\Debug\Bookstore___Invoice_System.User_Interface.formTransactions.resources
